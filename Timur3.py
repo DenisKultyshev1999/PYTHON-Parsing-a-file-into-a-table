@@ -2,8 +2,6 @@ from tkinter import *
 import pandas as pd
 from tkinter import ttk, filedialog
 import openpyxl
-from jsonpath_rw import jsonpath, parse
-from collections import Counter
 import json
 import xlwt
 
